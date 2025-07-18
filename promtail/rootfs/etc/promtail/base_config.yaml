@@ -9,3 +9,5 @@ positions:
 
 clients:
   - url: "${URL}"
+
+tenant_id: "tenant1"
